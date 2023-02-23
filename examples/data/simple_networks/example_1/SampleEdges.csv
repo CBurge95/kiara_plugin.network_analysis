@@ -1,4 +1,4 @@
-source,target,time,weight
+source,target,time,meeting
 A,B,January,2
 B,A,January,5
 B,C,February,15
